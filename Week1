@@ -1,10 +1,16 @@
-I) Real Time search -
-
+I) Real Time search :-
 1) There should be a list of items
 2) Search box to type the item you want to search
 3) Add an button with a text box which will allow to to update the list items present for search purpose.
-
 No need to connect to database or make any API calls for now.
 
-II) Create a simple To-Do list component where the user can add a list of to-do items. 
-The user can click on the checkbox against the to-do item once it is completed and strike-off the completed item on the list.
+II) To-Do App 
+1) Create a simple To-Do list component where the user can add a list of to-do items. 
+2) The user can click on the checkbox against the to-do item once it is completed and strike-off the completed item on the list.
+
+III) Project Feedback Portal :-
+1) User can select a project from a list of projects
+2) User can see all the team members mapped to selected project
+3) User can give overall feedback of project with some pre-defined questions
+4) User can give feedback to each members who is part of that project
+Note:- There will be no backend API for now.
